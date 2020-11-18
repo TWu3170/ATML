@@ -1,3 +1,3 @@
 # ATML
 documents for course ATMLT
-and for try the additional featutes
+and for trying the additional featutes
